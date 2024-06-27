@@ -1,0 +1,6 @@
+*.csv
+*.json
+*.png
+*.cfg
+*.pyc
+*\venv
